@@ -7,7 +7,7 @@ Aprendí HTML y CSS desde cero, sin conocimientos previos. Indagué todo sobre e
 ## Apoyo de código :space_invader:
     https://www.w3schools.com
 
-# Objetivos del curso :rocket:
+# Objetivos :rocket:
  
 * Aplicar estilos usando CSS3
 * Dominar la anatomía de un elemento HTML
