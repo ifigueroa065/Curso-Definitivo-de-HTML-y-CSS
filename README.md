@@ -11,8 +11,11 @@ Aprendí HTML y CSS desde cero, sin conocimientos previos. Indagué todo sobre e
 * Crear Sitios Web estáticos con HTML y CSS3
 * Conocer la semántica del HTML
 
-## Iconos :gun:
+## :gun: Iconos 
     https://www.flaticon.com
 
-## Imágenes :bow_and_arrow:
+##  :bow_and_arrow: Imágenes 
     https://www.freepik.es
+    
+## :ghost: Compress PNG images while preserving transparency 
+     https://tinypng.com/
